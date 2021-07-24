@@ -1,0 +1,1 @@
+float calc(int a, char c, int b);
