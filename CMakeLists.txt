@@ -7,6 +7,9 @@ project(catch2_experiments)
 # creates the variable EXEC and sets it to final
 set(EXEC final)
 
+# I../includes
+include_directories(includes)
+
 # puts all .cpp files to the SOURCES variable
 file(GLOB SOURCES src/*.cpp)
 
