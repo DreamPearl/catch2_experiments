@@ -1,4 +1,4 @@
-#include "../includes/calc.hpp"
+#include "calc.hpp"
 
 float calc(int a, char c, int b) {
 
